@@ -1,46 +1,87 @@
-TodoApp: Cross-Platform Task Management System
+Focus
 
+Focus is a productivity-oriented Android mobile application built with React Native CLI and Firebase Authentication. It provides secure user login through Email/Password and Google Sign-In. This repository shares information about the app and its APK release, but does not include the full project source code.
 
-Project Overview
-TodoApp is a high-performance mobile application designed to facilitate efficient task management and real-time productivity tracking. Built using the React Native framework, the application leverages a modern tech stack to ensure a responsive user experience and secure data persistence.
+Description
 
-Core Functionality
-User Authentication: Implements secure user onboarding and session management via Firebase Authentication.
+Focus is designed to help users stay organized and maintain better productivity. The app offers a clean interface, fast performance, and simple, secure authentication powered by Firebase. Users can log in quickly using their preferred method and begin using the app immediately.
 
-Persistent Storage: Utilizes a cloud-based NoSQL database for real-time data synchronization across multiple sessions.
+Screenshots
 
-Date-Centric Task Management: Integration of a dedicated calendar interface for scheduled task tracking and deadline visualization.
+Add your screenshots here when available.
 
-Responsive Interface: Employs a utility-first styling approach to ensure UI consistency across various Android screen densities.
+assets/screenshots/screen1.png
+assets/screenshots/screen2.png
 
-State Management: Efficient handling of application state to ensure low-latency interactions during CRUD operations.
+Example (update the path when adding images):
 
-Technical Specifications
-Development Environment: Visual Studio Code (VS Code)
+![Screenshot 1](assets/screenshots/screen1.png)
+![Screenshot 2](assets/screenshots/screen2.png)
+Logo
 
-Framework: React Native (CLI Workflow)
+Add your app logo here.
 
-Backend-as-a-Service: Firebase (Firestore and Auth)
+assets/logo.png
 
-External Libraries: React Native Calendar (NPM) for date management
+Example:
 
-Build Tool: Gradle (Android)
+![App Logo](assets/logo.png)
+Features
 
-Development Workflow
-The project was developed using the React Native CLI to maintain full control over the native Android build configuration. Development was conducted within Visual Studio Code, utilizing the integrated terminal for dependency management and build execution. The architecture follows a modular component structure, integrating third-party NPM packages to extend functionality while maintaining optimal performance.
+Firebase Email/Password authentication
 
-Deployment and Installation
-The source code for this project is currently maintained in a private repository. However, the compiled application is available for testing and evaluation.
+Google Sign-In integration
 
-Navigate to the Releases section of this repository.
+Fast and clean user interface
 
-Download the latest version of the application package (app-release.apk).
+Android APK file available for installation
 
-Transfer the file to an Android device.
+Secure backend authentication using Firebase
 
-Enable installation from unknown sources in the device security settings.
+Download and Installation
 
-Execute the file to complete the installation.
+Download the APK from the release section or provided link.
 
-Developer Information
-The application was developed by an Electronics and Communication Engineering student specializing in full-stack mobile development and cloud integration. This project demonstrates proficiency in JavaScript environments, mobile backend integration, and native build optimization.
+Open the APK file on your Android device.
+
+If prompted, allow installation from unknown sources.
+
+Install and open the Focus app.
+
+If you want, add your direct APK link here:
+
+[Download Focus APK](your-link-here)
+Requirements
+
+Android 6.0 or newer
+
+Internet connection required for authentication
+
+Authentication Details
+
+Focus uses Firebase Authentication to ensure secure and reliable login options. Supported login methods:
+
+Email and Password
+
+Google Sign-In
+
+All authentication is handled securely through Firebase services.
+
+Privacy and Security
+
+Passwords are never stored in the app.
+
+Authentication is handled directly by Firebase.
+
+No sensitive information is exposed or shared.
+
+Only essential data required for login is processed.
+
+Support
+
+For issues, suggestions, or feedback, contact:
+
+your-email@example.com
+License
+
+This repository provides information and documentation for the Focus app. Redistribution or modification of the APK without permission is not allowed.
