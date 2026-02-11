@@ -13,7 +13,8 @@ Focus is designed to help users stay organized and maintain better productivity.
 
 ##Logo
 
-![WhatsApp Image 2026-02-11 at 12 20 37 PM (1)](https://github.com/user-attachments/assets/d8354073-e979-4b63-a90e-bf026bee5864)
+<img width="1707" height="638" alt="image" src="https://github.com/user-attachments/assets/e4d72e4a-35ff-4086-918d-d69665b2a354" />
+
 
 ##Features
 
