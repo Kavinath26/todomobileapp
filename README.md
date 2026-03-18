@@ -1,4 +1,4 @@
-## Focus
+## Focus Mobile App
 
 Focus is a productivity-oriented Android mobile application built with React Native CLI and Firebase Authentication. It provides secure user login through Email/Password and Google Sign-In. This repository shares information about the app and its APK release, but does not include the full project source code.
 
